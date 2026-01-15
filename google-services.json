@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884915012572",
+    "project_id": "cyberiq-53d00",
+    "storage_bucket": "cyberiq-53d00.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884915012572:android:78c96964c1ac9503eec519",
+        "android_client_info": {
+          "package_name": "com.satvik.cyberiq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwuUHSd_ZYZVo41fdUWszEaGnsrnJXfZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
